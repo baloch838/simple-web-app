@@ -1,4 +1,4 @@
-# simple-web-app
+
 # Simple Web App
 
 This is a simple web application with a form that stores data in a PostgreSQL database.
